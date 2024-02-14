@@ -1,0 +1,6 @@
+POPESCU Emilia	STATE Horia	ION Marin
+7	5	8
+9	7	4
+8	10	2
+10	10	9
+9	10	1
